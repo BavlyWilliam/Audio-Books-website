@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Audio files - stored in Cloudflare R2
+audio/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local generated files
+*.png
+*.jpg
+*.jpeg
+
+# Environment/secrets
+.env
