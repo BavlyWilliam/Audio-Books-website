@@ -1,7 +1,7 @@
 # 🇮🇹 Parla Italiano — Italiano A1 | Audio Companion
 
 <p align="center">
-  <strong>A lightweight digital audio companion for the book <em>Parla Italiano — Italiano A1</em></strong>
+  <strong>A lightweight digital audio companion for <em>Parla Italiano — Italiano A1</em></strong>
 </p>
 
 <p align="center">
